@@ -1,16 +1,38 @@
-# COVID-19 Tracker
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+# COVID 19 - Tracker
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/AnjaliSharma1234/COVID19-Tracker/issues) [![GitHub stars](https://img.shields.io/github/stars/AnjaliSharma1234/COVID19-Tracker.svg?logo=github)](https://github.com/AnjaliSharma1234/COVID19-Tracker/stargazers) [![GitHub forks](https://img.shields.io/github/forks/AnjaliSharma1234/COVID19-Tracker.svg?logo=github&color=teal)](https://github.com/AnjaliSharma1234/COVID19-Tracker/network) [![GitHub top language](https://img.shields.io/github/languages/top/AnjaliSharma1234/COVID19-Tracker?color=yellow&logo=javascript)](https://github.com/AnjaliSharma1234/COVID19-Tracker)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+A web app to represent the data of COVID-19 epidemic build with React, Chart.JS and Material UI.
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+This is motivated by [Javascript Mastery](https://www.youtube.com/watch?v=khJlrj3Y6Ls).
 
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
+## Tech Stack
 
-API used: https://covid19.mathdro.id/api
+- HTML5, CSS3, Javascript, ReactJS, React Hooks, Chart.JS, Material UI
+- API used: https://covid19.mathdro.id/api
 
-Setup:
-- run ```npm i && npm start```
+## Screenshot of the Web App
+
+![](assests/webappSS.png)
+
+
+## Tutorial Blog Post
+
+The following is my tutorial blog post on ["Learn React by building an App — React Functionalities Explained"](https://medium.com/mobile-web-dev/learn-react-by-building-a-to-do-app-react-functionalities-explained-74f466e9396). Follow the instructions, fork this repo and build your COVID 19 Tracker.
+
+## Getting Started
+
+- Fork and clone this repository
+- Run `npm i && npm start`
+
+## Project Admin
+
+[![Relative date](https://img.shields.io/date/1577392258?color=important&label=started&logo=github)](https://github.com/AnjaliSharma1234/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/AnjaliSharma1234/)
+
+| ![](assests/anjali-sharma.png) |
+| :----------------------------------------------------------: |
+| **[Anjali Sharma](https://www.linkedin.com/in/anjalisharmaaa/)**  |
+
+[![GitHub followers](https://img.shields.io/github/followers/AnjaliSharma1234.svg?label=Follow%20@AnjaliSharma1234&style=social)](https://github.com/AnjaliSharma1234/) [![Twitter Follow](https://img.shields.io/twitter/follow/AnjaliiSharmaaa?style=social)](https://twitter.com/AnjaliiSharmaaa) 
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/AnjaliSharma1234/)
