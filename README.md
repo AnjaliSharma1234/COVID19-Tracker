@@ -4,7 +4,7 @@
 
 A web app to represent the data of COVID-19 epidemic build with React, Chart.JS and Material UI.
 
-This is motivated by [Javascript Mastery](https://www.youtube.com/watch?v=khJlrj3Y6Ls).
+This is motivated and learned from [Javascript Mastery](https://www.youtube.com/watch?v=khJlrj3Y6Ls).
 
 ## Tech Stack
 
