@@ -34,6 +34,6 @@ The following is my tutorial blog post on ["Learn React by building an App — R
 | **[Anjali Sharma](https://www.linkedin.com/in/anjalisharmaaa/)**  |
 
 [![GitHub followers](https://img.shields.io/github/followers/AnjaliSharma1234.svg?label=Follow%20@AnjaliSharma1234&style=social)](https://github.com/AnjaliSharma1234/) [![Twitter Follow](https://img.shields.io/twitter/follow/AnjaliiSharmaaa?style=social)](https://twitter.com/AnjaliiSharmaaa) 
-Personal Portfolio : anjalisharma.tech
+Personal Portfolio : [anjalisharma.tech](anjalisharma.tech) 
 
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/AnjaliSharma1234/)
